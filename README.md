@@ -1,5 +1,8 @@
 # odin-recipes
-Learning HTML from Odin Project.
-Contains a simple recipe website for 3 recipes.
-Learned how to create unordered and ordered lists.
-Learned to link to other file directories
+Learning HTML from Odin Project. \
+Contains a simple recipe website for 3 recipes.\
+
+Lesson Learned:
+- Creating unordered and ordered lists.
+- Basic HTML with adding images
+- Linking to other file directories
